@@ -7,9 +7,7 @@ Full Stack Developer • DevOps Lerner • Building with AI
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;DevOps+Learner;Backend+Engineer;Always+Learning+New+Things" />
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sharmadipalidev&label=Profile%20views&color=8A2BE2&style=for-the-badge" alt="Asmitchowdhury" />
-</p>
+
 
 ---
 
