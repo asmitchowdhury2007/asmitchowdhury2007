@@ -89,7 +89,7 @@ Full Stack Developer • DevOps Lerner • Building with AI
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asmitchowdhury2007&theme=aura">
 
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=asmitchowdhury2007&theme=dark" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=asmitchowdhury2007&theme=aura&hide_border=true" alt="GitHub Streak" /></a>
 
 
 ---
